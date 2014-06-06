@@ -1,4 +1,4 @@
-TwilioClientAzure
+Twilio Client Azure
 =================
 
-Twilio Client code for MVC on Azure
+Generates capability token and routes calls from Twilio Client
